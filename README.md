@@ -44,20 +44,9 @@ Registro das transações.
 🛠️ Como executar o projeto
 Pré-requisitos
 
-Java 17+
+Java 21
 
 Maven
-
-Passos para rodar a aplicação
-# Clonar repositório
-git clone https://github.com/seu-usuario/picpay-simplificado.git
-
-# Entrar no diretório
-cd picpay-simplificado
-
-# Executar o projeto
-mvn spring-boot:run
-
 
 A aplicação estará disponível em:
 👉 http://localhost:8080
